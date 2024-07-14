@@ -52,3 +52,10 @@ const text = "Hello, my name is ";
 typeWriter.innerHTML = text;
 typeWriter.style.setProperty("--characters", text.length);
 
+// Tilt effect
+VanillaTilt.init(document.querySelectorAll(".has-tooltip"), {
+  max: 40,
+  speed: 400,
+  glare: true
+  });
+

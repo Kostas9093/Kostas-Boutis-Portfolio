@@ -351,9 +351,9 @@ body {
 .dark body {
   --tw-bg-opacity: 1;
 /*   background-image: url('/images/back.jpg'); */
-  /* background-color: rgb(0 0 50 / var(--tw-bg-opacity)); */
+   background-color: rgb(0 0 0 / var(--tw-bg-opacity)); 
   --tw-text-opacity: 1;
-  /* color: rgb(248 250 252 / var(--tw-text-opacity)); */
+   color: rgb(248 250 252 / var(--tw-text-opacity));
 }
 
 *, ::before, ::after {

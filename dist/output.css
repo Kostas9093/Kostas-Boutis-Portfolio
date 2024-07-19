@@ -917,7 +917,7 @@ color:rgb(7, 0, 80);
 
 .bg-\[\#0053c0\] {
   --tw-bg-opacity: 1;
-  background-color: rgb( 0 83 192/ var(--tw-bg-opacity));
+  background-color: rgb(10 170 10/ var(--tw-bg-opacity));
 }
 
 .bg-gray-100 {
@@ -1461,7 +1461,7 @@ Custom Scrollbar
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color:#78fff1;
+  background-color:#0aff0a;
 }
 
 .hover\:mb-5:hover {
@@ -1481,18 +1481,18 @@ Custom Scrollbar
 
 .hover\:bg-\[\#A8B2D1\]:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(168 178 209 / var(--tw-bg-opacity));
+  background-color: rgb(10 255 10 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-\[\#78fff1\]:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(120 255 241 / var(--tw-bg-opacity));
-  color:rgb(120, 255, 241);
+  background-color: rgb(10 255 10 / var(--tw-bg-opacity));
+  color:rgb(10 255 10);
 }
 
 .hover\:bg-\[\#78fff1\]:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(120 255 241 / var(--tw-bg-opacity));
+  background-color: rgb(10 255 10 / var(--tw-bg-opacity));
 }
 
 .hover\:fill-\[\#6B727F\]:hover {
@@ -1524,7 +1524,7 @@ Custom Scrollbar
 
 .hover\:text-\[\#78fff1\]:hover {
   --tw-text-opacity: 1;
-  color: rgb(120 255 241 / var(--tw-text-opacity));
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .hover\:text-gray-500:hover {
@@ -1566,7 +1566,7 @@ Custom Scrollbar
 
 .active\:bg-\[\#78fff1\]:active {
   --tw-bg-opacity: 1;
-  background-color: rgb(120 255 241 / var(--tw-bg-opacity));
+  background-color: rgb(10 255 10 / var(--tw-bg-opacity));
 }
 
 .active\:shadow-lg:active {
@@ -1641,7 +1641,7 @@ Custom Scrollbar
 }
 
 .dark .dark\:stroke-\[\#78fff1\] {
-  stroke: #78fff1;
+  stroke: #0aff0a;
 }
 
 .dark .dark\:text-slate-50 {
@@ -1738,7 +1738,7 @@ Custom Scrollbar
 
 .dark .dark\:hover\:bg-\[\#0d00ff\]:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(57 86 255 / var(--tw-bg-opacity));
+  background-color: rgb(10 255 10 / var(--tw-bg-opacity));
 }
 
 .dark .dark\:hover\:fill-\[\#CBD6F4\]:hover {

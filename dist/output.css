@@ -900,7 +900,7 @@ body {
 
 .bg-\[\#070050\] {
   --tw-bg-opacity: 1;
-  background-color: rgb(7 0 80 / var(--tw-bg-opacity));
+  background-color: rgb(2 10 20 / var(--tw-bg-opacity));
 color:rgb(7, 0, 80);
 }
 
@@ -927,7 +927,7 @@ color:rgb(7, 0, 80);
 
 .bg-\[\#070070\] {
   --tw-bg-opacity: 1;
-  background-color: rgb(07 0 112 / var(--tw-bg-opacity));
+  background-color: rgb(2 10 20 / var(--tw-bg-opacity));
 }
 
 .bg-\[\#9ca3af\] {
@@ -1336,14 +1336,14 @@ color:rgb(7, 0, 80);
 .toggle-checkbox:checked {
   @apply: right-0 border-green-400;
   right: 0;
-  border: #78fff1 solid 2px;
+  border: #0aff0a solid 2px;
 }
 
 .toggle-checkbox:checked + .toggle-label {
   @apply: bg-green-400;
   background-color: transparent;
   /* border-color: #78fff1; */
-  border: #78fff1 solid 2px;
+  border: #0aff0a solid 2px;
 }
 
 /* ===================Dark Mode / Light Mode Switch====================== */
@@ -1618,7 +1618,7 @@ Custom Scrollbar
 
 .dark .dark\:bg-\[\#112240\] {
   --tw-bg-opacity: 1;
-  background-color: rgb(17 34 64 / var(--tw-bg-opacity));
+  background-color: rgb(2 10 20 / var(--tw-bg-opacity));
 }
 
 .dark .dark\:bg-\[\#233554\] {
@@ -1656,7 +1656,7 @@ Custom Scrollbar
 
 .dark .dark\:text-\[\#78fff1\] {
   --tw-text-opacity: 1;
-  color: rgb(120 255 241 / var(--tw-text-opacity));
+  color: rgb(10 255 10 / var(--tw-text-opacity));
 }
 
 .dark .dark\:text-\[\#CBD6F4\] {
@@ -1732,7 +1732,7 @@ Custom Scrollbar
 
 .dark .dark\:hover\:bg-\[\#0053c0\]:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(0 83 192 / var(--tw-bg-opacity));
+  background-color: rgb(10 255 10 / var(--tw-bg-opacity));
   
 }
 
